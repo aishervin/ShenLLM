@@ -6,3 +6,16 @@ coverage/
 *.log
 .env*
 !.env.example
+*.o
+*.bin
+*.asmbin
+*.gguf
+*.safetensors
+*.ckpt
+*.iso
+runs/
+models/
+data/
+checkpoints/
+.venv/
+__pycache__/
