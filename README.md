@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/aishervin/ShenLLM">مخزن SHΞN™</a> ·
-  <a href="https://github.com/alesha-pro/llm.asm">پروژهٔ مرجع llm.asm</a>
+  <a href="https://github.com/aishervin/ShenLLM"> 🚥</a> 
 </p>
 
 ---
