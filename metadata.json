@@ -1,0 +1,6 @@
+{
+  "name": "SHΞN™ LLM",
+  "description": "Extreme low-level pure assembly LLM inference engine, bare-metal OS, and neural network trainer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
